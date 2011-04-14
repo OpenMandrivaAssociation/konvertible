@@ -1,5 +1,5 @@
 %define name    konvertible        
-%define version 0.1.4    
+%define version 1.0.1    
 %define release %mkrel 1           
  
 Name:           %name
