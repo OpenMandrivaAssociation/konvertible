@@ -52,3 +52,16 @@ rm -rf %{buildroot}
 %postun
 %clean_icon_cache hicolor
 
+
+
+%changelog
+* Thu Apr 14 2011 Juan Luis Baptiste <juancho@mandriva.org> 1.0.1-1mdv2011.0
++ Revision: 652880
+- Updated to 1.0.1
+
+* Tue Jul 13 2010 Juan Luis Baptiste <juancho@mandriva.org> 0.1.4-1mdv2011.0
++ Revision: 551869
+- Fixed mkrel: changed 01 for 1.
+- Initial import based on blogdrake.net package.
+
+
