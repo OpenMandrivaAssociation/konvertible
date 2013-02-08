@@ -1,6 +1,6 @@
 %define name    konvertible        
 %define version 1.0.1    
-%define release %mkrel 1           
+%define release 2
  
 Name:           %name
 Version:        %version
@@ -15,7 +15,10 @@ BuildRequires:  kdelibs4-devel kdepimlibs4-devel
 Requires:       kdebase4-runtime ffmpeg
  
 %description
-The Konvertible is a program to convert audio files to other audio formats using ffmpeg. The Konvertible simplifies file conversion for ffmpeg users. You can add more than one audio file and then click the convert button to transcode them one after the other.
+The Konvertible is a program to convert audio files to other audio formats
+using ffmpeg. The Konvertible simplifies file conversion for ffmpeg users. You
+can add more than one audio file and then click the convert button to transcode
+them one after the other.
 
  
 %prep
