@@ -9,7 +9,7 @@ Source0:        http://kde-apps.org/CONTENT/content-files/116892-%name-%version.
 Summary:        A simple KDE audio converter                                      
 License:        GPLv2                                                                  
 Group:          Sound                                                             
-Url:            http://kde-apps.org/content/show.php/Konvertible?content=116892                                 
+Url:            https://kde-apps.org/content/show.php/Konvertible?content=116892                                 
 BuildRoot:      %{_tmppath}/%{name}-%{version}                  
 BuildRequires:  kdelibs4-devel kdepimlibs4-devel
 Requires:       kdebase4-runtime ffmpeg
