@@ -11,6 +11,7 @@ License:        GPLv2
 Group:          Sound                                                             
 Url:            https://kde-apps.org/content/show.php/Konvertible?content=116892                                 
 BuildRoot:      %{_tmppath}/%{name}-%{version}                  
+BuildRequires:	make
 BuildRequires:  kdelibs4-devel kdepimlibs4-devel
 Requires:       kdebase4-runtime ffmpeg
  
